@@ -1,9 +1,9 @@
 **BOLD**
 *italic*
 
-#Heading 1
+# Heading 1
 
-##Bigger heading
+## Bigger heading
 
 [Google](www.bing.com)
 
