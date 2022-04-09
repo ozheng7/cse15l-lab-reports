@@ -25,4 +25,21 @@ Oscar Zheng, A16880333
     - ![Image](https://cdn.discordapp.com/attachments/856335317203681280/962150405037494312/unknown.png)
 ---------------------------------------------------------------------------------------------------------------------
 - **Setting an SSH Key**
-  -  
+  -  Setting a key allows you to sign onto the remote desktop without the password, as long as you have the key on your local machine.
+  -  On your local machine
+    - ```$ssh-keygen
+      Generating public/private rsa key pair.
+      Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa
+      Enter passphrase (empty for no passphrase):
+      ```
+    - *do not add a passphrase*
+    - ```Enter same passphrase again: 
+      Your identification has been saved in /Users/<user-name>/.ssh/id_rsa.
+      Your public key has been saved in /Users/<user-name>/.ssh/id_rsa.pub.
+      The key fingerprint is:
+      SHA256:jZaZH6fI8E2I1D35hnvGeBePQ4ELOf2Ge+G0XknoXp0 <user-name>@<system>.local
+      ```
+    - ![Image](https://cdn.discordapp.com/attachments/856335317203681280/962164594024017960/unknown.png)
+
+------------------------------------------------------------------------
+- **Optimizing Remote Running**
