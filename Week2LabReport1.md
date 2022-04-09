@@ -43,3 +43,8 @@ Oscar Zheng, A16880333
 
 ------------------------------------------------------------------------
 - **Optimizing Remote Running**
+  - To understand the change that was made to the process of accessing your remote desktop, you can try and time yourself copying files over from one machine to the other. 
+  - Try to copy a file without the password on a new machine and then try again on the machine with the passkey on it. 
+  - How fast are you on the machine with the passkey on it? What about when manually typing in your passkey?
+  - ![Image](https://cdn.discordapp.com/attachments/856335317203681280/962168172172157019/unknown.png)
+
