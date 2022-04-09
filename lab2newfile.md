@@ -7,7 +7,7 @@
 
 [Google](www.bing.com)
 
-[image of a drog](https://pbs.twimg.com/media/EzF8HknWYAALqSx.jpg)
+![Image](https://pbs.twimg.com/media/EzF8HknWYAALqSx.jpg)
 
 > this is a block quote, i will now copy a paragraph from a book: At once Aeneas' limbs fall slack with chill.
 He groans and stretches both hands to the stars.
