@@ -2,4 +2,4 @@
 Oscar Zheng, A16880333
 
 - Installing VS Code
--   flksdjfklsd
+  - flksdjfklsd
