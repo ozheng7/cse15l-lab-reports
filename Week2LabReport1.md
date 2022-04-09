@@ -8,7 +8,7 @@ Oscar Zheng, A16880333
 
 - **Remotely Connecting**
   - To remotely connect to the UCSD lab computer, open a terminal and type these commands
-   - ssh cse15lsp22ajw@ieng6.ucsd.edu
+   - `ssh cse15lsp22ajw@ieng6.ucsd.edu`
    - *type in your password*
     - ![Image](https://cdn.discordapp.com/attachments/856335317203681280/962149296399069264/unknown.png)
 
