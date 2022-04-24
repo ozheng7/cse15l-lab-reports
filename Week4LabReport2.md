@@ -7,3 +7,4 @@
   - This file was changed so that it would be able to find links even with empty lines in the file
     - empty lines previously caused the program to loop infinitly
     - ![Image](https://cdn.discordapp.com/attachments/852041958067273761/967902781774114916/unknown.png)
+  - The loop was caused by the file constantly looping back to the previous parenthesis. That is why there are two numbers repeating constantly becuase it is jumping between those two. The loop was fixed by checking if the file we were checking had reached the end of the string. Once it did, it would return and end the method.
