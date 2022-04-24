@@ -15,5 +15,6 @@
     - ![Image](https://cdn.discordapp.com/attachments/852041958067273761/967907301568700417/unknown.png)
   - The failure was caused by the program only looking for brackets, which both the links and images share. Imstead, it was changed to look for brackets and also if there is an exclamation mark in front of them, the indication for an image.
 
-- ![Image](
-- ![image](https://user-images.githubusercontent.com/103291913/164999302-c00fec6a-ba2f-4ec5-bdc0-c870af6ab0b9.png)
+- ![Image](https://cdn.discordapp.com/attachments/852041958067273761/967914406304419870/unknown.png)
+  - The third bug we chose to fix was an empty file. 
+  - There is no change to the actual MarkdownParse file because when testing this file, it was already fixed with the change that was made in the empty lines modification. 
