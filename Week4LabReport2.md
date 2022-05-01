@@ -16,10 +16,10 @@
   - This file was changed so that it would be able to recognize and ignore Image links
     - ![Image](https://cdn.discordapp.com/attachments/852041958067273761/967907301568700417/unknown.png)
   - The failure was caused by the program only looking for brackets, which both the links and images share. Imstead, it was changed to look for brackets and also if there is an exclamation mark in front of them, the indication for an image.
-
-### Change 3
-- ![Image](https://cdn.discordapp.com/attachments/856335317203681280/970420725469032560/unknown.png)
+ 
+ ### Change 3
+ - ![Image](https://cdn.discordapp.com/attachments/856335317203681280/970420725469032560/unknown.png)
   - [Link to Failure Inducing File](https://raw.githubusercontent.com/ozheng7/markdown-parser/main/part5-secondfile.md)
   - This file was changed to recognize another type of links format with greater than or less than signs.
-    - ![Image](https://cdn.discordapp.com/attachments/856335317203681280/970422254800363590/unknown.png)
+    - ![Image](https://cdn.discordapp.com/attachments/856335317203681280/970422092422066276/unknown.png)
   - The failure was caused by the program only looking for one kind of links format. It now also looks for the carrot format with greater than and less than signs.
