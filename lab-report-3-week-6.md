@@ -14,7 +14,8 @@
   - This is where my public key is located for my github account
 - ![Image](https://cdn.discordapp.com/attachments/852041958067273761/973342481825562654/unknown.png)
   - This is where the key is lcoated on my account
-- ![ 
+- ![Image](https://cdn.discordapp.com/attachments/852041958067273761/973346893348347904/unknown.png)
+  - This is me commiting and pushing a change to github.
 
 
 ## Copy whole directories with scp -r
