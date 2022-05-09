@@ -10,8 +10,17 @@
   - This is me copying a file to the remote server
 
 ## Setup Github Access from ieng6
+- ![Image](https://cdn.discordapp.com/attachments/852041958067273761/973342066287472640/unknown.png)
+  - This is where my public key is located for my github account
+- ![Image](https://cdn.discordapp.com/attachments/852041958067273761/973342481825562654/unknown.png)
+  - This is where the key is lcoated on my account
+- ![ 
 
 
 ## Copy whole directories with scp -r
 - ![Image](https://cdn.discordapp.com/attachments/852041958067273761/973074697325531186/unknown.png)
   - This is me copying the entire markdown-parse directory onto the remote server
+- ![Image](https://cdn.discordapp.com/attachments/852041958067273761/973254319585521745/unknown.png)
+  - This is me logging into the remote server and seeing the markdown-parse directory.
+- ![Image](https://cdn.discordapp.com/attachments/852041958067273761/973335813851082862/unknown.png)  
+  - This is me running the markdownparse file from my computer all in one command
