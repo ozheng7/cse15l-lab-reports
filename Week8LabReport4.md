@@ -41,11 +41,11 @@
 
 - My Output
 ![image](https://user-images.githubusercontent.com/103291913/169670968-7f20d128-31c4-49dc-b5f3-8c11e8577923.png)
-There is again something in the way that makes it so that the program is not even picking up the links. I think that there is for sure more than 10 lines that would have to be rewritten or added to fix this problem.
+- There is again something in the way that makes it so that the program is not even picking up the links. I think that there is for sure more than 10 lines that would have to be rewritten or added to fix this problem.
 
 - Other Output
 ![image](https://user-images.githubusercontent.com/103291913/169670899-9509d801-cab6-486d-a8ab-939b9e63c7e7.png)
-I think a couple lines could fix this problem. The problem that I am seeing is not being able to decide where is the start paren and end. I think just helping the file get a hand on where all the paren are and then finding the start and end would fix this problem.
+- I think a couple lines could fix this problem. The problem that I am seeing is not being able to decide where is the start paren and end. I think just helping the file get a hand on where all the paren are and then finding the start and end would fix this problem.
 
 
 
