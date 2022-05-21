@@ -16,3 +16,16 @@
 
   [`code]`](ucsd.edu)
 ~~~
+
+![image](https://user-images.githubusercontent.com/103291913/169670588-fffd6e07-1c37-43b4-afa8-b346443c861a.png)
+
+- My Output
+![image](https://user-images.githubusercontent.com/103291913/169670610-d1df5baa-fe4d-4912-9ec4-11c138a9c262.png)
+- I do not think that there is a small snippet of code that I could change to fix this code because instead of getting the wrong links, this code did not get any links at all which means that in this file there is something that is messing with the reason why this code even gets links in the first place, basically another principle that I cannot fix with only a couple lines of code.
+
+- Other Output
+![image](https://user-images.githubusercontent.com/103291913/169670663-33f5d57d-ec7b-496c-bb3d-7a9e35ffa85f.png)
+- I think that there is not a small line of code that I could change to fix this code because it seems like most of the code relies on the fact that before there is a link, there are square brackets. This would mean to fix this code, I would have to change a core principle of this code which would require rewriting more than a line of code.
+
+# Snippet Two
+- For 
