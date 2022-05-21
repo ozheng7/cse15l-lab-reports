@@ -1,11 +1,11 @@
-## Week 8 Lab Report 4
+# Week 8 Lab Report 4
 
 
 [Link to my group's repository](https://github.com/21KennethTran/markdown-parser)
 ------------------------------------------------------------------------------------------------
 [Link to the repository that was reviewed](https://github.com/leahkuruvila/markdown-parser)
 
-# Snippit One
+### Snippit One
 - For Snippet One, the Markdown File should produce [url.com, google.com, ucsd.edu]
 ~~~
   `[a link`](url.com)
@@ -27,5 +27,5 @@
 ![image](https://user-images.githubusercontent.com/103291913/169670663-33f5d57d-ec7b-496c-bb3d-7a9e35ffa85f.png)
 - I think that there is not a small line of code that I could change to fix this code because it seems like most of the code relies on the fact that before there is a link, there are square brackets. This would mean to fix this code, I would have to change a core principle of this code which would require rewriting more than a line of code.
 
-# Snippet Two
+### Snippet Two
 - For 
