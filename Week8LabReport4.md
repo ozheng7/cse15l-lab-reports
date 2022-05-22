@@ -47,5 +47,41 @@
 ![image](https://user-images.githubusercontent.com/103291913/169670899-9509d801-cab6-486d-a8ab-939b9e63c7e7.png)
 - I think a couple lines could fix this problem. The problem that I am seeing is not being able to decide where is the start paren and end. I think just helping the file get a hand on where all the paren are and then finding the start and end would fix this problem.
 
+## Snippet Three
+- For Snippet Three, the output should be [https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, github.com, https://cse.ucsd.edu/]
+~~~
+[this title text is really long and takes up more than 
+one line
+
+and has some line breaks](
+    https://www.twitter.com
+)
+
+[this title text is really long and takes up more than 
+one line](
+https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
+)
 
 
+[this link doesn't have a closing parenthesis](github.com
+
+And there's still some more text after that.
+
+[this link doesn't have a closing parenthesis for a while](https://cse.ucsd.edu/
+
+
+
+)
+
+And then there's more text
+~~~
+
+![image](https://user-images.githubusercontent.com/103291913/169692314-39055be8-758b-4a46-818e-d9648c768b94.png)
+
+- My Output
+![image](https://user-images.githubusercontent.com/103291913/169692385-829d3fa9-2c8f-4a1f-925f-bc725e4a64f1.png)
+- I think that a couple of lines would be able to solve this problem as what we really have to do is just fix it so that it reads links that are on the sane line, which could be easily done by just finidng whne a new line starts in the MarkdownFile.
+
+- Other Output
+![image](https://user-images.githubusercontent.com/103291913/169692458-91d0f6dc-9674-4c9e-9b87-31c0f454f871.png)
+- I also think that this could be solved with a couple of lines of code since it also has about the same problem, with the program reading the links all the way down instead of stopping after the line ends.
