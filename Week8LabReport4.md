@@ -32,6 +32,7 @@
 
 ## Snippet Two
 - For Snippet Two, the output should be [b.com, a.com(()), example.com]
+
 ```
 [a [nested link](a.com)](b.com)
 
@@ -39,6 +40,7 @@
 
 [some escaped \[ brackets \]](example.com)
 ```
+
 
 ![image](https://user-images.githubusercontent.com/103291913/169670873-0a565721-4943-48ac-912e-a400a632021c.png)
 
@@ -55,6 +57,8 @@
 
 ## Snippet Three
 - For Snippet Three, the output should be [https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, github.com, https://cse.ucsd.edu/]
+
+
 ~~~
 [this title text is really long and takes up more than 
 one line
@@ -81,6 +85,7 @@ And there's still some more text after that.
 
 And then there's more text
 ~~~
+
 
 ![image](https://user-images.githubusercontent.com/103291913/169692314-39055be8-758b-4a46-818e-d9648c768b94.png)
 
