@@ -32,13 +32,13 @@
 
 ## Snippet Two
 - For Snippet Two, the output should be [b.com, a.com(()), example.com]
-~~~
+```
 [a [nested link](a.com)](b.com)
 
 [a nested parenthesized url](a.com(()))
 
 [some escaped \[ brackets \]](example.com)
-~~~
+```
 
 ![image](https://user-images.githubusercontent.com/103291913/169670873-0a565721-4943-48ac-912e-a400a632021c.png)
 
